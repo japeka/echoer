@@ -1,5 +1,5 @@
 # Echoer
-## Name Echoer application implemented with Next.js
+## Echoer has been implemented with Next.js
 
 - Make sure you are using node version of at least 18.12.1
 - Run npm install
@@ -7,5 +7,5 @@
 - Type in npm run dev
 - Access the echoer app in the browser at http://localhost:3000
 
-### Link to echoer github repository
+### Link to echoer github repository:
 [Echoer](https://github.com/japeka/echoer)
