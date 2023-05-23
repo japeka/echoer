@@ -7,4 +7,7 @@
 ## Run npm install -g @sitecore-jss/sitecore-jss-cli
 
 ## Type in npm run dev
-## Access the echoer app in the browser at http://localhost:3000 
+## Access the echoer app in the browser at http://localhost:3000
+
+## Link to echoer github repository
+[Echoer](https://github.com/japeka/echoer)
